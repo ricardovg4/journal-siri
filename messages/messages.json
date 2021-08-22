@@ -15,5 +15,17 @@
         "index": 2,
         "date": "Sun Aug 22 12:59:51 AM -04 202",
         "message": "I wanted to make this so you can read my messages as a kind of Journal. I hope we both enjoy it =)."
+    },
+
+    {
+        "index": 3,
+        "date": "Sun Aug 22 02:18:36 AM -04 2021",
+        "message": "I always think of you, even when I'm with you."
+    },
+
+    {
+        "index": 4,
+        "date": "Sun Aug 22 02:19:57 AM -04 2021",
+        "message": "I love you."
     }
 ]
